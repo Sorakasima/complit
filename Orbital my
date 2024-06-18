@@ -1,4 +1,4 @@
-getgenv().rebhook = "https://discord.com/channels/897781264768184370/1250784927461539841"  
+getgenv().rebhook = "https://discord.com/api/webhooks/1250784620618842183/2lgJmnT9Phg3MDEgmygbZ4tGOzb3ocMdtItVAyElqkFY077MxloMxwRtqg0EhgNZRAz2"  
 getgenv().questlist = ""
 --getgenv().stack = true
 getgenv().tqstate = true
