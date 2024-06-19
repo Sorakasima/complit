@@ -1,5 +1,5 @@
 getgenv().rebhook = "https://discord.com/api/webhooks/1250784620618842183/2lgJmnT9Phg3MDEgmygbZ4tGOzb3ocMdtItVAyElqkFY077MxloMxwRtqg0EhgNZRAz2"  
-getgenv().questlist = "https://raw.githubusercontent.com/Sorakasima/Tesssst/main/Tesst.lua"
+--getgenv().questlist = ""
 getgenv().stack = true
 getgenv().tqstate = true
 getgenv().rebgrind = true
